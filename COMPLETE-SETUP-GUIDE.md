@@ -9,7 +9,7 @@ A production-ready Retrieval-Augmented Generation (RAG) chatbot that processes m
 ### Key Features
 - ✅ Multi-format document support (PDF, DOCX, PPTX, CSV, TXT, MD)
 - ✅ Vector-based semantic search using FAISS
-- ✅ Multiple LLM models (5 Groq models supported)
+- ✅ Multiple LLM models (3 Groq models supported)
 - ✅ Chat history with persistence
 - ✅ Agent-based architecture with MCP communication
 - ✅ Interactive Streamlit UI
@@ -44,7 +44,7 @@ A production-ready Retrieval-Augmented Generation (RAG) chatbot that processes m
                 │     Agent     │
                 │               │
                 │ • Groq LLMs   │
-                │ • 5 models    │
+                │ • 3 models    │
                 │ • Generation  │
                 └───────────────┘
 ```
@@ -245,8 +245,6 @@ Browser will open automatically showing your chatbot.
   - **Llama 3.3 70B** - Best quality, complex queries
   - **Llama 3.1 70B** - Balanced performance
   - **Llama 3.1 8B** - Fast responses
-  - **Mixtral 8x7B** - Long context (32K tokens)
-  - **Gemma 2 9B** - Lightweight, fastest
 
 ### 2. **Upload Documents**
 - Click "Browse files" button
