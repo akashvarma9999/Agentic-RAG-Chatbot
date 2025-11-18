@@ -1,5 +1,8 @@
 # 🎯 **Agentic RAG Chatbot (Multi-Format Document Question Answering)**
 
+A Modular, Multi-Agent Retrieval-Augmented Generation System
+<p align="center"> <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-Groq_Llama_3.3_70B-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Search-FAISS-005F9E?style=for-the-badge&logo=vectorworks&logoColor=white"/> <img src="https://img.shields.io/badge/Reranker-BGE_Reranker-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Agentic(MCP)-10B981?style=for-the-badge"/> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/> </p>
+
 # 🚀 **Overview**
 
 This project implements a **RAG-powered chatbot** built on a **multi-agent architecture** using a custom **Model Context Protocol (MCP)**.
@@ -221,5 +224,30 @@ The multi-agent architecture ensures **modularity**, **extensibility**, and **cl
 
 ---
 
+📄 License
+
+This project is licensed under the MIT License.
+
+MIT License
+
+Copyright (c) 2025 Gadhiraju Akash Varma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
 
 
