@@ -1,8 +1,5 @@
 # 🎯 **Agentic RAG Chatbot (Multi-Format Document Question Answering)**
 
-A Modular, Multi-Agent Retrieval-Augmented Generation System
-<p align="center"> <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-Groq_Llama_3.3_70B-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Search-FAISS-005F9E?style=for-the-badge&logo=vectorworks&logoColor=white"/> <img src="https://img.shields.io/badge/Reranker-BGE_Reranker-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Agentic(MCP)-10B981?style=for-the-badge"/> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/> </p>
-
 # 🚀 **Overview**
 
 This project implements a **RAG-powered chatbot** built on a **multi-agent architecture** using a custom **Model Context Protocol (MCP)**.
@@ -224,7 +221,7 @@ The multi-agent architecture ensures **modularity**, **extensibility**, and **cl
 
 ---
 
-📄 License
+# 📄 **License**
 
 This project is licensed under the MIT License.
 
@@ -251,4 +248,5 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
 ---
+
 
