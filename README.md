@@ -1,6 +1,3 @@
-﻿# Agentic-RAG-Chatbot
-
-
 # 🎯 **Agentic RAG Chatbot (Multi-Format Document Question Answering)**
 
 # 🚀 **Overview**
@@ -223,5 +220,6 @@ This Agentic RAG Chatbot demonstrates how **semantic retrieval**, **reranking**,
 The multi-agent architecture ensures **modularity**, **extensibility**, and **clear separation of concerns**, making it suitable for real-world organizational deployment.
 
 ---
+
 
 
